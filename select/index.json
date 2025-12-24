@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "強く優しく美しく",
+  "base_artist": "カレン from BEST FRIENDS！",
+  "createdAt": "2025-12-24T07:46:24.646049Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "強く優しく美しく",
+      "artist": "カレン from BEST FRIENDS!",
+      "has_synced": false,
+      "path": "select/pl_01_強く優しく美しく_カレン_from_BEST_FRIENDS!.txt"
+    }
+  ]
+}
